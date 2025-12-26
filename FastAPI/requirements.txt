@@ -1,0 +1,12 @@
+pyngrok
+transformers
+asyncio
+uvicorn
+fastapi
+pydantic
+flash_attn
+flash-attention
+nest_asyncio
+
+# For jupyter notebook run these:
+# !pip install pyngrok transformers asyncio uvicorn fastapi pydantic flash_attn flash-attention nest_asyncio
