@@ -20,3 +20,7 @@ src/main/resources/keys/
 Required files:
 - jwt-private.pem
 - jwt-public.pem
+
+# License
+
+This project is only for educational purposes
